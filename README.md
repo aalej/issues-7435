@@ -4,7 +4,6 @@
 
 platform: macOS Sonoma 14.5<br>
 firebase-tools: v13.13.2<br>
-gcloud: v476.0.0<br>
 Google Cloud SDK 483.0.0<br>
 beta 2024.06.28<br>
 bq 2.1.6<br>
